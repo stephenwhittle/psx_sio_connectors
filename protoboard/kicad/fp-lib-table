@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "sio_protoboard")(type "KiCad")(uri "$(KIPRJMOD)/sio_protoboard.pretty")(options "")(descr ""))
+)
